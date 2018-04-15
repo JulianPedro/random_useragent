@@ -1,0 +1,7 @@
+include LICENSE.txt
+include README.md
+include random_useragent/data/
+include random_useragent/data/desktop.json
+include random_useragent/data/resolution.json
+include random_useragent/data/smartphone.json
+include random_useragent/data/tablet.json

@@ -1,0 +1,30 @@
+{
+	"android": [
+		"Mozilla/5.0 (Linux; U; Android 6.0.1; D6503 Build/23.5.A.0.575; wv) AppleWebKit/537.36 (KHTML, like Gecko)AppleWebKit/602.1.40.1 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1",
+		"Mozilla/5.0 (Linux; U; Android 4.1.2; ru-ru; MoveO TPC-7SG Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Version/8.0 Safari/537.36 Dolphin/11.3.8",
+		"Mozilla/5.0 (Linux; U; Android 2.3.6; id-ID; SM-GalaxyNote8 Build/KOT49H) AppleWebKit/534.50 (KHTML, like Gecko) Version/7.2 Mobile Safari/534.30",
+		"Mozilla/5.0 (Linux; U; Android 4.0.3; ko-kr; LG-L160L Build/IML74K) AppleWebkit/534.30 (KHTML, like Gecko) Version/7.0 Mobile Safari/534.30",
+		"Mozilla/5.0 (Linux; U; Android 4.2.2; Lenovo A850 build s121) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A",
+		"Mozilla/6.0 (Linux; U; Android 6.0; mobiistar_LAI_ZORO_2 Build/ AppleWebKit/534.30 (KHTML, like Gecko) Version/6.0 Mobile Safari/534.30",
+		"Mozilla/5.0 (Linux; U; Android 4.0.3; vn-vi; LG-L160L Build/IML74K) AppleWebkit/537.30 (KHTML, like Gecko) Version/6.0 Mobile Safari/537.30",
+		"Mozilla/5.0 (Linux; U; Android 4.2.2; vn-vi; Lenovo A850 BinhT) AppleWebkit/537.30 (KHTML, like Gecko) Version/6.0 Mobile Safari/537.30",
+		"Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-G925F Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36",
+		"Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G925F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/38.0.2125.102 Mobile Safari/537.36"
+	],
+	"ios": [
+		"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1",
+		"Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Version/10.0 Mobile/14D27 Safari/602.1",
+		"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E188a Safari/601.1",
+		"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4",
+		"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13F69 Safari/601.1",
+		"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E238 Safari/601.1",
+		"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13D15 Safari/601.1",
+		"Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Safari/602.1",
+		"Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0 Mobile/14B100 Safari/602.1",
+		"Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/14A456 Safari/602.1",
+		"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1",
+		"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1",
+		"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) Version/10.0 Mobile/14F89 Safari/602.1",
+		"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G36 Safari/601.1"
+	]
+}
